@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "kunitz_human.fasta",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "kunitz_human.fasta",
+  "number-of-letters": 13546,
+  "number-of-sequences": 18,
+  "last-updated": "2023-05-19T12:30:00",
+  "number-of-volumes": 1,
+  "bytes-total": 53878,
+  "bytes-to-cache": 13821,
+  "files": [
+    "kunitz_human.fasta.pdb",
+    "kunitz_human.fasta.phr",
+    "kunitz_human.fasta.pin",
+    "kunitz_human.fasta.pot",
+    "kunitz_human.fasta.psq",
+    "kunitz_human.fasta.ptf",
+    "kunitz_human.fasta.pto"
+  ]
+}
